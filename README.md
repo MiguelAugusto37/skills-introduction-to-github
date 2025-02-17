@@ -12,5 +12,5 @@ I'm always working on new projects and contributing to open-source communities. 
 ## 📫 Get in Touch  
 Want to discuss coding, collaborate on a project, or just chat? Connect with me here:  
 - ✉️ Email: [miguelaugusto3737@gmail.com]
-- 
+
 Thanks for visiting! Happy coding! 🚀  
